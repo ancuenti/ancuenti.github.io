@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ancuenti.github.io/sitemap.html.gz
+Sitemap: https://ancuenti.github.io/app/sitemap.html.gz
+Sitemap: https://ancuenti.github.io/assets/sitemap.html.gz
+Sitemap: https://ancuenti.github.io/css/sitemap.html.gz
+Sitemap: https://ancuenti.github.io/includes/sitemap.html.gz
+Sitemap: https://ancuenti.github.io/item/sitemap.html.gz
+Sitemap: https://ancuenti.github.io/src/sitemap.html.gz
